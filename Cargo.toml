@@ -1,0 +1,9 @@
+[package]
+name = "crossbill"
+version = "0.1.1"
+authors = ["Ryan O'Neill <ryanoneill@gmail.com>"]
+description = "Placeholder"
+homepage = "http://crossbill.io"
+license = "Apache-2.0"
+
+[dependencies]
